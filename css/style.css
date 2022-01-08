@@ -1,0 +1,562 @@
+*{margin: 0;
+padding: 0;
+}
+
+header{
+    background: white;
+}
+
+
+.logo{
+    position: absolute;
+width: 48px;
+height: 50px;
+left: 26px;
+top: 27px;
+border-radius: 4px;
+}
+
+
+/* Luxury World Pvt. Ltd. */
+
+.com_name{
+ 
+position: absolute;
+width: 218px;
+height: 26px;
+left: 89px;
+top: 22px;
+font-family: Roboto Slab;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 26px;
+color: #003054;
+
+}
+
+/* address of company */
+
+.address{
+    
+position: absolute;
+width: 262px;
+height: 34px;
+left: 89px;
+top: 53px;
+font-family: Roboto Slab;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 17px;
+color: #000000;
+opacity: 0.7;
+}
+
+
+/* About to profile of director */
+.profile_background{
+
+    position: absolute;
+    width: 100%;
+    height: 196px;
+    left: 0px;
+    top: 100px;
+    background: #C4C4C4;
+    opacity: 0.2;
+
+}
+
+.polygon{
+    position: absolute;
+width: 100%;
+height: 38px;
+top: 290px;
+left: 0px;
+}
+
+.profile_pic{
+
+    position: absolute;
+    width: 77.79px;
+    height: 78.98px;
+    left: 146.21px;
+    top: 115.41px;
+    border-radius: 45px;
+
+}
+
+/* Contact detail */
+
+
+.badge{
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 197px;
+top: 170px;
+
+
+}
+.name{
+position: absolute;
+width: 249px;
+height: 31px;
+left: 63px;
+top: 210px;
+font-family: Sarabun;
+font-style: normal;
+font-weight: bold;
+font-size: 21px;
+line-height: 31px;
+text-align: center;
+color: #000000;
+}
+
+.post{
+
+    position: absolute;
+    width: 80px;
+    height: 23px;
+    left: 147px;
+    top: 243px;
+    font-family: Sarabun;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: center;
+    
+    color: #000000;
+}
+
+.contact_logo{
+    position: absolute;
+left: 14.67%;
+right: 79.15%;
+top: 19.2%;
+bottom: 79.54%;
+
+border: 2px solid #003054;
+}
+
+/* contact details */
+.contact_1{
+    position: absolute;
+    right: 79.15%;
+    left: 55px;
+    top: 360px;
+    bottom: 79.54%;
+
+}
+
+.mb-1{
+position: absolute;
+width: 80px;
+height: 18px;
+left: 27px;
+top: 395px;
+
+font-family: Sarabun;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 18px;
+text-align: center;
+
+color: #003054;
+
+
+}
+
+
+.verticle_line_1{
+    position: absolute;
+width: 2px;
+height: 80px;
+left: 140px;
+top: 341px;
+
+}
+
+.contact_2{
+    position: absolute;
+left: 184px;
+right: 46.08%;
+top: 360px;
+bottom: 79.54%;
+}
+
+.mb-2{
+
+position: absolute;
+width: 80px;
+height: 18px;
+left: 151px;
+top: 395px;
+
+font-family: Sarabun;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 18px;
+text-align: center;
+
+color: #003054;
+
+
+}
+
+.verticle_line_2{
+    position: absolute;
+    width: 2px;
+    height: 80px;
+    left: 255px;
+    top: 341px;
+}
+
+
+.whatsapp{
+      position: absolute;
+width: 49px;
+height: 49px;
+left: 287px;
+top: 360px;
+}
+
+/* horizontal line-1 */
+
+.hr-1{
+
+position: absolute;
+width: 375px;
+height: 2px;
+left: 0px;
+top: 440px;
+
+}
+
+.send-icon{
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 25px;
+    top: 45px;
+
+}
+
+.gmail{
+    /* email@gmail.com */
+
+position: absolute;
+width: 113px;
+height: 18px;
+left: 63px;
+top: 45px;
+
+font-family: Sarabun;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 18px;
+text-align: center;
+
+color: #003054;
+
+}
+
+/* horizontal line-2 */
+.hr-2{
+
+    position: absolute;
+    width: 375px;
+    height: 2px;
+    left: 0px;
+    top: 516px;
+    
+    }
+    
+.geo-icon{
+        position: absolute;
+        width: 25px;
+        height: 25px;
+        left: 25px;
+        top: 40px;
+    
+}
+    
+.geo-location{
+
+    position: absolute;
+    width: 300px;
+    height: 18px;
+    left: 63px;
+    top: 40px;
+    
+    font-family: Sarabun;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 18px;
+    text-align: center;
+    
+    color: #003054;
+}
+
+/* horizontal line-3 */
+
+.hr-3{
+
+    position: absolute;
+    width: 375px;
+    height: 2px;
+    left: 0px;
+    top: 600px;
+    
+    }
+    
+.globe-icon{
+        position: absolute;
+        width: 25px;
+        height: 25px;
+        left: 25px;
+        top: 40px;
+    
+}
+    
+.website{
+
+    position: absolute;
+    width: 113px;
+    height: 18px;
+    left: 63px;
+    top: 40px;
+    
+    font-family: Sarabun;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 18px;
+    text-align: center;
+    
+    color: #003054;
+    
+
+}
+
+
+/* horizontal line-4 */
+
+.hr-4{
+    position: absolute;
+    width: 375px;
+    height: 2px;
+    left: 0px;
+    top: 672px;
+    
+}
+ /* Enquire Form  */
+.enquiry{
+display: flex;
+justify-content: center;
+align-items: center;
+top: 705px;
+position: relative;
+
+font-family: Sarabun;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+
+color: #000000;
+}
+
+
+/* ------------------------------------------------------- */
+
+/* Style inputs with type="text", select elements and textareas */
+
+
+
+
+input[type=text], select, textarea {
+    width: 100%; 
+    padding: 12px; 
+    border: 1px solid #ccc; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    resize: vertical 
+  }
+
+input[type=number]{
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    margin-top: 6px;
+    resize: vertical;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+  
+  /* Style the submit button with a specific background color etc */
+input[type=submit] {
+    background-color: #003054;
+    color: white;
+    padding: 12px 20px;
+    width: 100%;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  /* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  /* Add a background color and some padding around the form */
+.contact-form {
+    position: absolute;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    top: 760px; 
+    width: 100%;
+    justify-content: center;
+align-items: center;
+display: flex;
+  }
+
+.about{
+position: relative;
+/* border: 2px solid blue; */
+padding: 12px;
+top: 1185px; 
+display: block;
+justify-content: center;
+align-items: center;
+
+
+font-family: Sarabun;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+
+color: #000000;
+
+}
+
+.about-compa{
+    width: 100%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 17px;
+
+}
+
+.about-wallpaper{
+    width: 100%;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 15px;
+
+}
+
+p{
+    font-family: sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 17px;
+padding-bottom: 70px;
+}
+
+/* payment detail design */
+
+.pay{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: #003054;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    position: fixed;
+    top: 91%;
+
+}
+
+.card-icon{
+    width: 40px;
+    height: 40px;
+    /* border: 2px solid rgb(38, 0, 255); */
+    margin: 0px 10px 0px 10px; 
+
+}
+
+.save-icon{
+    width: 40px;
+    height: 40px;
+    /* border: 2px solid rgb(76, 0, 255); */
+    margin: 0px 10px 0px 10px;
+}
+
+.payment{
+
+    font-size: 14px;
+    font-style:normal;
+    font-weight: 600;
+    color: white;
+    font-family: sans-serif;
+    margin-right: 8px;
+    text-decoration: none;
+}
+
+.card-design{
+    /* border-right:1px solid royalblue ; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    text-decoration: none;
+}
+.save-design{
+    /* border-left:1px solid royalblue ; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    text-decoration: none;
+
+}
+
+.share{
+    display: flex;
+    align-items: right;
+    justify-content: right;
+
+}
+
+.share-icon{
+    position: fixed;
+    padding-right: 5px;
+    /* border: 2px solid rebeccapurple; */
+    top: 83%;
+}
+
+
+
+
+
+
+
+
+
+
